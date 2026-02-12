@@ -1,16 +1,25 @@
-# flutter_widgets_exploration
+# Flutter Mini Interactive UIs.
 
-A new Flutter project.
+This repository features a collection of mini Flutter interactive projects designed to enhance skills in interactive UI, animations, and state management.
 
-## Getting Started
+# Challenge 1: Task Management Interactive Widget
 
-This project is a starting point for a Flutter application.
+--- 
 
-A few resources to get you started if this is your first Flutter project:
+A Flutter widget that demonstrates advanced list interactions.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* ✅ Swipe to delete tasks using **Dismissible**
+* ✅ Drag to reorder tasks using **ReorderableListView**
+* ✅ Confirmation dialog before deletion
+* ✅ Undo delete using **SnackBar**
+
+---
+
+## 📱 Demo Behavior
+
+1. Swipe a task → confirmation dialog appears
+2. Confirm deletion → task removed
+3. SnackBar appears → option to undo
+4. Drag tasks → reorder instantly
