@@ -4,7 +4,6 @@ This repository features a collection of mini Flutter interactive projects desig
 
 # Challenge 1: Task Management Interactive Widget
 
---- 
 
 A Flutter widget that demonstrates advanced list interactions.
 
@@ -15,7 +14,6 @@ A Flutter widget that demonstrates advanced list interactions.
 * ✅ Confirmation dialog before deletion
 * ✅ Undo delete using **SnackBar**
 
----
 
 ## 📱 Demo Behavior
 
